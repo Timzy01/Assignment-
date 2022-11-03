@@ -1,0 +1,90 @@
+* {
+   margin: 0px;
+   padding: 20px;
+   box-sizing: border-box;
+  
+}
+@import url(https://fonts.google.com/specimen/Lexend+Deca);
+@import url(https://fonts.google.com/specimen/Big+Shoulders+Display);
+body {
+   background-color: black;
+   color: white;
+   padding: 3cm;
+}
+
+   
+
+
+main {
+   width: 100%;
+   margin: auto;
+   display: flex;
+   justify-content: left;
+   align-items: left;
+   height: 100vh;
+   text-align: left;
+   padding: 2cm;
+   word-spacing: 3px;
+   
+}
+.container {
+   background-color: white;
+   padding: 2cm;
+   display: flex;
+   width: 90%;
+   height: 90vh;
+   position: relative;
+   font-family: le;
+}
+#col{
+   color: rgb(211, 209, 207);
+}
+#color{
+   color: rgb(25, 224, 231); 
+}
+#colour{
+   color: rgba(34, 143, 125, 0.966);
+}
+#column {
+  
+   background-color: hsl(184, 100%, 22%) ; 
+}
+#row {
+   background-color:  hsl(179, 100%, 13%); 
+}
+
+#first {
+   background-color: hsl(31, 77%, 52%) ;
+}
+
+   img style{
+      margin-bottom: 6px;
+   }
+   button{
+      background-color: white;
+      border:none;
+      font-family: sans-serif;
+      border-radius: 80px;
+      border: none;
+      cursor: pointer;
+      text-align: center;
+      padding: 15px;
+      width: 130px;
+      align-items: center;
+      position: absolute;
+       margin-bottom: auto;
+      bottom: 100px;
+       
+   }
+   .colour{
+   color:aqua;
+  } 
+  h2{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+ p{
+   font-family: 'Big Shoulder Display' , cursive';
+ }
+  h2{
+   font-family: 'lexend Dec' cursive ;
+  }
